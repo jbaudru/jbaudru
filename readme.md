@@ -11,8 +11,10 @@ IRIDIA - Université Libre de Bruxelles
 </div>
 <img src="https://komarev.com/ghpvc/?username=jbaudru&style=flat-square&color=blue" alt=""/>
 
+[🛜](https://jbaudru.github.io/)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jbaudru)](https://git.io/streak-stats)
 
-[!Website](https://jbaudru.github.io/)
+
 
 
