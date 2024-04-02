@@ -1,8 +1,10 @@
 # Julien Baudru
 
-PhD student in Engineering Sciences and Technology
+*PhD student in Engineering Sciences and Technology*
 
-IRIDIA - Université Libre de Bruxelles
+**IRIDIA - Université Libre de Bruxelles (ULB)**
+
+[🛜 Website](https://jbaudru.github.io/)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/julien-baudru/">
@@ -10,8 +12,6 @@ IRIDIA - Université Libre de Bruxelles
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=jbaudru&style=flat-square&color=blue" alt=""/>
-
-[🛜](https://jbaudru.github.io/)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jbaudru)](https://git.io/streak-stats)
 
