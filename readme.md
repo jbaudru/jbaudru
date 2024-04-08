@@ -1,10 +1,8 @@
-# Julien Baudru
+# Julien Baudru[Julien Baudru](https://jbaudru.github.io/)
 
 *PhD student in Engineering Sciences and Technology*
 
 **IRIDIA - Université Libre de Bruxelles (ULB)**
-
-[🛜 Website](https://jbaudru.github.io/)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/julien-baudru/">
