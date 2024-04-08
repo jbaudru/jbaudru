@@ -1,4 +1,4 @@
-# Julien Baudru[Julien Baudru](https://jbaudru.github.io/)
+# [Julien Baudru](https://jbaudru.github.io/)
 
 *PhD student in Engineering Sciences and Technology*
 
