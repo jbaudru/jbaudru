@@ -11,8 +11,6 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=jbaudru&style=flat-square&color=blue" alt=""/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jbaudru)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbaudru)
 
 
