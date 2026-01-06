@@ -11,4 +11,4 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=jbaudru&style=flat-square&color=blue" alt=""/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jbaudru&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/jbaudru/langs)](https://githubtrends.io)
