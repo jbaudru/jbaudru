@@ -11,4 +11,4 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=jbaudru&style=flat-square&color=blue" alt=""/>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/jbaudru/langs)](https://githubtrends.io)
+[[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/jbaudru/langs)](https://githubtrends.io)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={jbaudru}&theme={nord_bright})
