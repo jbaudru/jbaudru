@@ -1,6 +1,6 @@
 # [Julien Baudru](https://jbaudru.github.io/)
 
-![](https://pixel-profile.vercel.app/api/github-stats?username=<jbaudru>)
+![](https://pixel-profile.vercel.app/api/github-stats?username=jbaudru)
 
 *PhD student in Engineering Sciences and Technology*
 
