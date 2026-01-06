@@ -11,7 +11,8 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=jbaudru&style=flat-square&color=blue" alt=""/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbaudru)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbaudru&show_icons=true&theme=transparent)
+
 
 
 
