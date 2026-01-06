@@ -11,8 +11,5 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=jbaudru&style=flat-square&color=blue" alt=""/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jbaudru&theme=dracula&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
-
-
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jbaudru&theme=dracula&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 
